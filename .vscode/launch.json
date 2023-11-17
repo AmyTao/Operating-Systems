@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tcj/Documents/GitHub/CSC3150-Operating-Systems/Part_1/source/program1",
+      "program": "/Users/tcj/Documents/GitHub/CSC3150-Operating-Systems/Part_1/source/program1/build/Debug/outDebug"
+    }
+  ]
+}
